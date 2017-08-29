@@ -1,6 +1,6 @@
 
 REPOSITORY = https://github.com/pedroarthur/tcpreplay
-REVISION   = v4.1.2-macrewrite
+REVISION   = v4.1.2-macrewrite-1
 
 SOURCES_TYPES = *.c *.h *.def Makefile
 define find

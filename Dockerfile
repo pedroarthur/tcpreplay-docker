@@ -1,4 +1,4 @@
-FROM debian:testing
+FROM debian:stretch
 
 RUN mkdir -p /usr/local/bin
 
